@@ -10,4 +10,3 @@ Python-based multi-person chat room  基于Python的多人聊天室
 
 在输入昵称后会有GUI界面出现！
 
-原文链接：https://github.com/zeyu2001/pychat 侵删
